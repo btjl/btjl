@@ -1,4 +1,4 @@
-## Welcome my profile 👋
+## Welcome to my profile 👋
 I am a budding software engineer who is interested in tech for good!
 
 - :mortar_board: April 2022
