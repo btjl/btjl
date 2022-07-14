@@ -1,5 +1,5 @@
 ## Welcome to my profile 👋
-I am a budding software engineer who is interested in tech for good!
+I am a budding software engineer who enjoys buildig stuff for fun.
 
 - :mortar_board: April 2022
 - :dart: Backend engineering
