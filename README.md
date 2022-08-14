@@ -3,6 +3,8 @@ I am a budding software engineer who enjoys building stuff for fun.
 
 - :mortar_board: April 2022
 - :dart: Backend engineering
+- :thought_balloon: Software Architecture, Design Patterns & Principles, Agile Methodologies
+- :people_hugging: Collaboration over "Rockstar developer"
 
 ---
 ### :cloud: Certifications
