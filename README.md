@@ -33,3 +33,8 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ritmol" width="400"/>
 </a>
+
+<h2>Frontend Mentor Challenges</h2>
+<ul>
+  <li><strong>Product preview card component</strong>: <a href="https://btjl.github.io/frontend-mentor-challenge-1/">Deployment</a>, <a href="https://github.com/btjl/frontend-mentor-challenge-1">Source</a></li>
+</ul>
