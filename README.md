@@ -4,24 +4,21 @@
 I am an aspiring Fullstack Developer who enjoys learning and problem solving!
 </p>
 
-<h2> Tools and Technologies</h2>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=65 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=65 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=65/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=65 />
-</p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=65 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width=65 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=65 />
-</p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=65 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=65/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width=65 />
-</p>
+<h2>Skills</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>ReactJS</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>Git</li>
+  <li>Test Driven Development</li>
+  <li>Java</li>
+  <li>Python</li>
+</ul>
 
 <h2>Certifications</h2>
 <ul>
@@ -30,7 +27,9 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
   <li><a href="https://www.udemy.com/certificate/UC-f7ee7285-82e4-4a52-b27c-a67e7978a864/">Udemy - Build Responsive Real-World Websites with HTML and CSS</a></li>
 </ul>
 
-<h2>LeetCode funzzz <a href="https://leetcode.com/Ritmol/">Profile</a></h2>
+<h2>LeetCode <a href="https://leetcode.com/Ritmol/">Profile</a></h2>
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ritmol" width="400"/>
 </a>
+
+<h2>GitHub Gists <a href="https://gist.github.com/btjl">Profile</a></h2>
