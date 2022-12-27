@@ -9,9 +9,11 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>NodeJS</li>
-  <li>ExpressJS</li>
-  <li>ReactJS</li>
+    <ul>
+      <li>NodeJS</li>
+      <li>ExpressJS</li>
+      <li>ReactJS</li>
+     </ul>
   <li>PostgreSQL</li>
   <li>MongoDB</li>
   <li>Git</li>
@@ -27,11 +29,21 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
   <li><a href="https://www.udemy.com/certificate/UC-f7ee7285-82e4-4a52-b27c-a67e7978a864/">Udemy - Build Responsive Real-World Websites with HTML and CSS</a></li>
 </ul>
 
-<h2>LeetCode <a href="https://leetcode.com/Ritmol/">Profile</a></h2>
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ritmol" width="400"/>
-</a>
-
-<h2>GitHub Gists <a href="https://gist.github.com/btjl">Profile</a></h2>
-
-<h2>CodePen <a href="https://codepen.io/btjl">Profile</a></h2>
+<h2>Coding Profiles</h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/Ritmol/">
+       LeetCode
+    </a>
+  </li>
+  <li>
+    <a href="https://gist.github.com/btjl">
+      GitHub Gists
+    </a>
+  </li>
+  <li>
+    <a href="https://codepen.io/btjl">
+      CodePen
+    </a>
+  </li>
+</ul>
