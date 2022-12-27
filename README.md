@@ -33,3 +33,5 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
 </a>
 
 <h2>GitHub Gists <a href="https://gist.github.com/btjl">Profile</a></h2>
+
+<h2>CodePen <a href="https://codepen.io/btjl">Profile</a></h2>
