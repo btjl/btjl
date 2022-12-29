@@ -34,16 +34,16 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
   <li>
     <a href="https://leetcode.com/Ritmol/">
        LeetCode
-    </a>
+    </a> - Technical interviews prep and improve familiarity of data structures and algorithms
   </li>
   <li>
     <a href="https://gist.github.com/btjl">
       GitHub Gists
-    </a>
+    </a> - Code snippets that might come in handy
   </li>
   <li>
     <a href="https://codepen.io/btjl">
       CodePen
-    </a>
+    </a> - Scratchpad for playing with HTML, CSS and vanilla JavaScript
   </li>
 </ul>
