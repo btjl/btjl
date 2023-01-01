@@ -1,49 +1,43 @@
-<h1>Welcome to my profile 👋</h1>
+Welcome to my profile 👋
+=
 
 <p>
 I am an aspiring Fullstack Developer who enjoys learning and problem solving!
 </p>
 
-<h2>Skills</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-    <ul>
-      <li>NodeJS</li>
-      <li>ExpressJS</li>
-      <li>ReactJS</li>
-     </ul>
-  <li>PostgreSQL</li>
-  <li>MongoDB</li>
-  <li>Git</li>
-  <li>Test Driven Development</li>
-  <li>Java</li>
-  <li>Python</li>
-</ul>
+### Skills | Actively Learning
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<h2>Certifications</h2>
+### Certifications
 <ul>
   <li><a href="https://www.credly.com/badges/affc0b27-64f4-4c88-b43e-fca06b792b1e?source=linked_in_profile">AWS Certified Cloud Practitioner</a></li>
   <li><a href="https://www.credly.com/badges/40394442-9eed-42ed-80c8-deac264b8919?source=linked_in_profile">AWS Certified Solution Architect</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-f7ee7285-82e4-4a52-b27c-a67e7978a864/">Udemy - Build Responsive Real-World Websites with HTML and CSS</a></li>
 </ul>
 
-<h2>Coding Profiles</h2>
-<ul>
-  <li>
+
+### Socials
+
+<p align="left" margin-left="10"> 
+  <a href="https://www.codepen.io/btjl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/brennantanjiale/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
     <a href="https://leetcode.com/Ritmol/">
        LeetCode
-    </a> - Technical interviews prep and improve familiarity of data structures and algorithms
-  </li>
-  <li>
-    <a href="https://gist.github.com/btjl">
-      GitHub Gists
-    </a> - Code snippets that might come in handy
-  </li>
-  <li>
-    <a href="https://codepen.io/btjl">
-      CodePen
-    </a> - Scratchpad for playing with HTML, CSS and vanilla JavaScript
-  </li>
-</ul>
+    </a>
+</p>
