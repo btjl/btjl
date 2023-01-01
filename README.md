@@ -23,10 +23,9 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
 </p>
 
 ### Certifications
-<ul>
-  <li><a href="https://www.credly.com/badges/affc0b27-64f4-4c88-b43e-fca06b792b1e?source=linked_in_profile">AWS Certified Cloud Practitioner</a></li>
-  <li><a href="https://www.credly.com/badges/40394442-9eed-42ed-80c8-deac264b8919?source=linked_in_profile">AWS Certified Solution Architect</a></li>
-
+<a href="https://www.credly.com/badges/affc0b27-64f4-4c88-b43e-fca06b792b1e?source=linked_in_profile">AWS Certified Cloud Practitioner</a>
+|
+<a href="https://www.credly.com/badges/40394442-9eed-42ed-80c8-deac264b8919?source=linked_in_profile">AWS Certified Solution Architect</a>
 
 ### Socials
 
@@ -35,7 +34,7 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
   </a>
   <a href="https://www.linkedin.com/in/brennantanjiale/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-    <a href="https://leetcode.com/Ritmol/">
-       LeetCode
-    </a>
+  <a href="https://leetcode.com/Ritmol/">
+    LeetCode
+  </a>
 </p>
