@@ -28,13 +28,4 @@ I am an aspiring Fullstack Developer who enjoys learning and problem solving!
 <a href="https://www.credly.com/badges/40394442-9eed-42ed-80c8-deac264b8919?source=linked_in_profile">AWS Certified Solution Architect</a>
 
 ### Socials
-
-<p align="left" margin-left="10"> 
-  <a href="https://www.codepen.io/btjl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/brennantanjiale/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://leetcode.com/Ritmol/">
-    LeetCode
-  </a>
-</p>
+<p align="left"> <a href="https://www.codepen.io/btjl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/btjl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/btjl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brennantanjiale/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://leetcode.com/Ritmol/">LeetCode</a></p>
