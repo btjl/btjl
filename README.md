@@ -2,7 +2,7 @@ Welcome to my profile 👋
 =
 
 <p>
-I am an aspiring Fullstack Developer who enjoys learning and problem solving!
+I am a fullstack software engineer who enjoys learning, experimenting and problem solving.
 </p>
 
 ### Skills | Actively Learning
