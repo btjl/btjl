@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import SharedLayout from "./pages/SharedLayout";
 import Home from "./pages/Home";
 import Blog from "./pages/Blog";
@@ -7,7 +7,7 @@ import Error from "./pages/Error";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/btjl" element={<SharedLayout />}>
           <Route index element={<Home />} />
@@ -16,7 +16,7 @@ function App() {
           <Route path="*" element={<Error />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
