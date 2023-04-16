@@ -1,5 +1,3 @@
-import { ReactNode } from "react";
-
 const Skill: React.FC<{
   name: string;
   image: React.FunctionComponent<React.SVGAttributes<SVGElement>>;

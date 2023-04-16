@@ -1,5 +1,5 @@
 import { AvatarImage } from "../assets";
-import Skills from "../components/Skills";
+import Skills from "../components/Home/Skills";
 
 const HomePage = () => {
   return (

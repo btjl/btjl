@@ -1,4 +1,4 @@
-import { skills } from "../assets/skills";
+import { skills } from "../../assets/skills";
 import { nanoid } from "nanoid";
 import Skill from "./Skill";
 

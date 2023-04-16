@@ -1,9 +1,11 @@
+import { nanoid } from "nanoid";
 import { Link, NavLink } from "react-router-dom";
 
 const links = [
-  { id: 1, route: "", text: "home" },
-  { id: 2, route: "about", text: "about" },
-  { id: 3, route: "blog", text: "blog" },
+  { id: nanoid(), route: "", text: "home" },
+  { id: nanoid(), route: "about", text: "about" },
+  { id: nanoid(), route: "blog", text: "blog" },
+  { id: nanoid(), route: "projects", text: "projects" },
 ];
 
 const linkStyles = "p-2 capitalize rounded hover:opacity-70";
