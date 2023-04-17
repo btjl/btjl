@@ -15,7 +15,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   thumbnail,
 }) => {
   return (
-    <div className="flex flex-col bg-slate-200 m-4">
+    <div className="flex flex-col bg-slate-200 mb-4">
       <div className="p-5">
         <div className="flex justify-between items-center">
           {thumbnail !== null ? thumbnail : <SadPepeImage />}

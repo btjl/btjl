@@ -4,7 +4,7 @@ import Skill from "./Skill";
 
 const Skills = () => {
   return (
-    <article className="flex">
+    <article className="flex ">
       {skills.map((skill) => (
         <Skill key={nanoid()} name={skill.name} image={skill.image} />
       ))}

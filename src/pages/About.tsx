@@ -23,7 +23,7 @@ const AboutPage = () => {
           challenges, all in the effort of inching closer to the summit. If you
           are lucky, you may encounter players along the way but there is no
           guarantee. The land is vast and the path towards the summit is not
-          straightforward, with many twists and turns. What a beautiful take on
+          straightforward, with many twists and turns. It is a beautiful take on
           life.
         </p>
         <p>

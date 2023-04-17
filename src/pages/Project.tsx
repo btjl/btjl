@@ -56,8 +56,8 @@ const projects = [
 
 const ProjectPage = () => {
   return (
-    <main className="flex">
-      <section className="">
+    <main className="flex m-5">
+      <section>
         {projects.map((project) => {
           return <ProjectCard key={project.id} {...project} />;
         })}

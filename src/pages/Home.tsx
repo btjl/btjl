@@ -3,7 +3,7 @@ import Skills from "../components/Home/Skills";
 
 const HomePage = () => {
   return (
-    <main className="min-h-screen m-5 flex flex-col md:justify-center">
+    <main className="m-5 flex flex-col md:justify-center">
       <section className="mb-5">
         <h1 className="text-5xl mb-5">家乐</h1>
         <p className="mb-5">
