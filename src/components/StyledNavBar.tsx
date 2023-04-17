@@ -12,8 +12,8 @@ const linkStyles = "p-2 capitalize rounded hover:opacity-70";
 
 const StyledNavBar = () => {
   return (
-    <nav className="m-5">
-      <ul className="flex md:flex-col">
+    <nav className="m-3 bg-white p-2 sticky top-0">
+      <ul className="flex md:flex-col sticky top-0">
         {links.map((link) => (
           <NavLink
             key={link.id}
