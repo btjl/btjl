@@ -15,19 +15,19 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   thumbnail,
 }) => {
   return (
-    <div className="flex flex-col bg-slate-200 mb-4">
-      <div className="p-5">
-        <div className="flex justify-between items-center">
+    <div className="bg-slate-200 rounded flex">
+      <div className="p-5 flex flex-col justify-between">
+        <div className="flex justify-between items-center mb-2">
           {thumbnail !== null ? thumbnail : <SadPepeImage />}
           {thumbnail !== null ? "✅" : ""}
         </div>
-        <h2 className="text-xl">{title}</h2>
-        <p className="mb-3">
+        <h2 className="text-xl mb-auto">{title}</h2>
+        <p className="mb-6 mt-auto">
           {description !== ""
             ? description
             : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos facere impedit accusantium, expedita vel possimus soluta odio deserunt voluptatem nobis!"}
         </p>
-        <button className="rounded bg-black text-white p-2">
+        <button className="rounded bg-black text-white p-2 md:w-1/2">
           <a href={link}>Visit project</a>
         </button>
       </div>

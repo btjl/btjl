@@ -5,7 +5,7 @@ import { FrontendMentorImage } from "../assets/projects";
 const projects = [
   {
     id: nanoid(),
-    title: "Frontend Mentor Challenges",
+    title: "Frontend Mentor",
     link: "https://frontend-mentor-btjl.vercel.app/",
     description: "",
     thumbnail: <FrontendMentorImage />,
@@ -56,8 +56,8 @@ const projects = [
 
 const ProjectPage = () => {
   return (
-    <main className="flex m-5">
-      <section>
+    <main className="m-5">
+      <section className="grid gap-2 sm:grid-cols-2 grid-cols-1 xl:grid-cols-2">
         {projects.map((project) => {
           return <ProjectCard key={project.id} {...project} />;
         })}
