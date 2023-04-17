@@ -1,14 +1,8 @@
-import React, { ReactElement } from "react";
+import React from "react";
 import { SadPepeImage } from "../../assets/projects";
+import { type IProject } from "../../models/IProject";
 
-interface ProjectCardProps {
-  title: string;
-  link: string;
-  description: string;
-  thumbnail: ReactElement | null;
-}
-
-const ProjectCard: React.FC<ProjectCardProps> = ({
+const ProjectCard: React.FC<IProject> = ({
   title,
   link,
   description,

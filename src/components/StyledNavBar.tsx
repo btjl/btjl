@@ -1,5 +1,5 @@
 import { nanoid } from "nanoid";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const links = [
   { id: nanoid(), route: "", text: "home" },
@@ -10,7 +10,7 @@ const links = [
 
 const linkStyles = "p-2 capitalize rounded hover:opacity-70";
 
-const StyledNavBar = () => {
+const StyledNavBar: React.FC = () => {
   return (
     <nav className="m-3 bg-white p-2 sticky top-0">
       <ul className="flex md:flex-col sticky top-0">

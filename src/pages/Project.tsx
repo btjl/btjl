@@ -1,8 +1,9 @@
 import { nanoid } from "nanoid";
 import ProjectCard from "../components/Projects/ProjectCard";
 import { FrontendMentorImage } from "../assets/projects";
+import { type IProject } from "../models/IProject";
 
-const projects = [
+const projects: IProject[] = [
   {
     id: nanoid(),
     title: "Frontend Mentor",
@@ -54,7 +55,7 @@ const projects = [
   },
 ];
 
-const ProjectPage = () => {
+const ProjectPage: React.FC = () => {
   return (
     <main className="m-5">
       <section className="grid gap-2 sm:grid-cols-2 grid-cols-1 xl:grid-cols-2">

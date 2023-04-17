@@ -1,3 +1,3 @@
 import journey from "./journey.jpeg";
 
-export const JourneyImage = () => <img src={`${journey}`} />;
+export const JourneyImage = (): any => <img src={journey} />;

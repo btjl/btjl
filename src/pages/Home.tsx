@@ -1,13 +1,13 @@
 import { AvatarImage } from "../assets";
 import Skills from "../components/Home/Skills";
 
-const HomePage = () => {
+const HomePage: React.FC = () => {
   return (
     <main className="m-5 flex flex-col md:justify-center">
       <section className="mb-5">
         <h1 className="text-5xl mb-5">家乐</h1>
         <p className="mb-5">
-          Hi, I'm Brennan. I am a Fullstack Software Engineer at GovTech
+          Hi, I&lsquo;m Brennan. I am a Fullstack Software Engineer at GovTech
           Singapore where I work on #TechForPublicGood.
         </p>
         <AvatarImage />

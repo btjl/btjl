@@ -20,7 +20,7 @@ const router = createHashRouter([
   },
 ]);
 
-function App() {
+function App(): React.ReactElement {
   return <RouterProvider router={router} />;
 }
 

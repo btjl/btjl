@@ -1,7 +1,6 @@
 import { JourneyImage } from "../assets/about";
-import { SadPepeImage } from "../assets/projects";
 
-const AboutPage = () => {
+const AboutPage: React.FC = () => {
   return (
     <main className="m-5">
       <section className=" flex flex-col mb-5 border border-black">
@@ -27,10 +26,10 @@ const AboutPage = () => {
           life.
         </p>
         <p>
-          This is where my favourite quote ties in nicely with life's{" "}
-          <span className="font-bold">Journey</span>. For all the pain,
-          suffering and joy that I anticipate in my life, I remind myself that{" "}
-          <span className="italic">"This too shall pass"...</span>
+          This is where my favourite quote ties in nicely with life&apos;s
+          <span className="font-bold"> Journey</span>. For all the pain,
+          suffering and joy that I anticipate in my life, I remind myself that
+          <span className="italic"> &ldquo;This too shall pass&rdquo;...</span>
         </p>
       </section>
     </main>

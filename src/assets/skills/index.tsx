@@ -9,15 +9,15 @@ import tailwindVector from "./tailwind.svg";
 import typescriptVector from "./typescript.svg";
 import htmlVector from "./html.svg";
 
-export const skills = [
-  { image: htmlVector, name: "html" },
-  { image: cssVector, name: "css" },
-  { image: tailwindVector, name: "tailwind" },
-  { image: javascriptVector, name: "javascript" },
-  { image: typescriptVector, name: "typescript" },
-  { image: reactVector, name: "react" },
-  { image: reduxVector, name: "redux" },
-  { image: nodejsVector, name: "nodejs" },
-  { image: expressVector, name: "express" },
-  { image: postgresqlVector, name: "postgresql" },
-];
+export {
+  cssVector,
+  expressVector,
+  javascriptVector,
+  nodejsVector,
+  postgresqlVector,
+  reactVector,
+  reduxVector,
+  tailwindVector,
+  typescriptVector,
+  htmlVector,
+};

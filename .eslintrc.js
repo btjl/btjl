@@ -1,5 +1,3 @@
-import eslint from "vite-plugin-eslint";
-
 module.exports = {
   env: {
     browser: true,
@@ -10,9 +8,16 @@ module.exports = {
   parserOptions: {
     ecmaVersion: "latest",
     sourceType: "module",
+    project: ["./tsconfig.json", "tsconfig.node.json"],
   },
   plugins: ["react", "prettier"],
   rules: {
     "prettier/prettier": "error",
+    "react/react-in-jsx-scope": "off",
+  },
+  settings: {
+    react: {
+      version: "detect",
+    },
   },
 };
