@@ -1,7 +1,7 @@
 import { nanoid } from "nanoid";
-import ProjectCard from "../components/Projects/ProjectCard";
-import { FrontendMentorImage } from "../assets/projects";
+import ProjectCard from "../components/projects/ProjectCard";
 import { type IProject } from "../models/IProject";
+import { FrontendMentorImage } from "../assets/projects";
 
 const projects: IProject[] = [
   {

@@ -1,5 +1,7 @@
-import { AvatarImage } from "../assets";
-import Skills from "../components/Home/Skills";
+import { AvatarImage, PortraitImage } from "../assets/home";
+import { BsArrowReturnLeft } from "react-icons/bs";
+
+import Skills from "../components/home/Skills";
 
 const HomePage: React.FC = () => {
   return (
@@ -10,7 +12,18 @@ const HomePage: React.FC = () => {
           Hi, I&lsquo;m Brennan. I am a Fullstack Software Engineer at GovTech
           Singapore where I work on #TechForPublicGood.
         </p>
-        <AvatarImage />
+        <div className="relative flex group">
+          <div className="transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
+            <AvatarImage />
+            <div className="absolute inset-0 [transform:rotateY(180deg)] [backface-visibility:hidden]">
+              <PortraitImage />
+            </div>
+          </div>
+          <div className="flex flex-col ml-2">
+            <p className="font-caveat text-2xl">Hover over me!</p>
+            <BsArrowReturnLeft className="text-2xl" />
+          </div>
+        </div>
         <p className="mt-5">
           I am a consistent and habitual individual who enjoys improving myself,
           both in my personal and professional persuits. My journey as a web
