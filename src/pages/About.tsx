@@ -4,7 +4,9 @@ const AboutPage: React.FC = () => {
   return (
     <main className="m-5">
       <section className=" flex flex-col mb-5 border border-black">
-        <JourneyImage />
+        <div className="overflow-hidden">
+          <JourneyImage />
+        </div>
         <p className="italic text-center">
           <p>Journey (2012) by Thatgamecompany</p>
           <p>This too shall pass...</p>
