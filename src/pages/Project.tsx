@@ -1,22 +1,22 @@
 import { nanoid } from "nanoid";
 import ProjectCard from "../components/projects/ProjectCard";
 import { type IProject } from "../models/IProject";
-import { FrontendMentorImage } from "../assets/projects";
+import { ArtImage, FrontendMentorImage } from "../assets/projects";
 
 const projects: IProject[] = [
   {
     id: nanoid(),
     title: "Frontend Mentor",
     link: "https://frontend-mentor-btjl.vercel.app/",
-    description: "",
+    description: "Collection of frontend mentor challenges attempted by me",
     thumbnail: <FrontendMentorImage />,
   },
   {
     id: nanoid(),
-    title: "PLACE HOLDER 🚧",
-    link: "https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran",
-    description: "",
-    thumbnail: null,
+    title: "Art",
+    link: "https://btjl.github.io/art/",
+    description: "Collection of my creative programming adventures",
+    thumbnail: <ArtImage />,
   },
   {
     id: nanoid(),
