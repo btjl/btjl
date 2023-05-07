@@ -6,6 +6,8 @@ import {
   ProjectPage,
   RootLayout,
 } from "./pages";
+import { ThemeContext } from "./contexts/theme-context";
+import { useContext, useEffect } from "react";
 
 const router = createHashRouter([
   {
@@ -21,6 +23,16 @@ const router = createHashRouter([
 ]);
 
 function App(): React.ReactElement {
+  const { isDarkTheme } = useContext(ThemeContext);
+
+  useEffect(() => {
+    if (isDarkTheme) {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  }, [isDarkTheme]);
+
   return <RouterProvider router={router} />;
 }
 

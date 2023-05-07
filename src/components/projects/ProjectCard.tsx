@@ -9,7 +9,7 @@ const ProjectCard: React.FC<IProject> = ({
   thumbnail,
 }) => {
   return (
-    <div className="bg-slate-200 rounded flex">
+    <div className="rounded flex border border-black dark:border-white">
       <div className="p-5 w-full flex flex-col">
         <div className="flex justify-between items-center mb-2">
           {thumbnail !== null ? thumbnail : <SadPepeImage />}
@@ -19,7 +19,7 @@ const ProjectCard: React.FC<IProject> = ({
         <p className={`mb-auto ${description === "" ? "italic" : ""}`}>
           {description !== "" ? description : "Sigh... in due time"}
         </p>
-        <button className="rounded bg-black text-white p-2 mt-6 md:w-1/2">
+        <button className="rounded bg-black border text-white p-2 mt-6 md:w-1/2">
           <a href={link}>Visit project</a>
         </button>
       </div>

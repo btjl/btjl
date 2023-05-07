@@ -3,7 +3,7 @@ import { JourneyImage } from "../assets/about";
 const AboutPage: React.FC = () => {
   return (
     <main className="m-5">
-      <section className=" flex flex-col mb-5 border border-black">
+      <section className=" flex flex-col mb-5 border border-black dark:border-white ">
         <div className="overflow-hidden">
           <JourneyImage />
         </div>
