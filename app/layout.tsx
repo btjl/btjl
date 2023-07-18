@@ -1,5 +1,6 @@
 "use client";
 
+import { Analytics } from "@vercel/analytics/react";
 import { Github, Linkedin } from "lucide-react";
 import "./globals.css";
 import { ThemeProvider } from "next-themes";
@@ -54,6 +55,7 @@ export default function RootLayout({
             {children}
           </div>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
