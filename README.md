@@ -27,4 +27,4 @@ I am a fullstack software engineer who enjoys learning, experimenting and proble
 <a href="https://www.credly.com/badges/40394442-9eed-42ed-80c8-deac264b8919?source=linked_in_profile">AWS Certified Solution Architect</a>
 
 ### Links
-[Personal Website](https://btjl.github.io/btjl/)
+[Personal Website](https://btjl.vercel.app/)
