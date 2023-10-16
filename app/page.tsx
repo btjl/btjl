@@ -65,14 +65,6 @@ export default function Home() {
                   >
                     <ExternalLink className="inline h-4 w-4" />
                   </a>
-                  v1
-                  <a
-                    className="flex text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background hover:bg-accent hover:text-accent-foreground rounded-md  h-7 w-7 items-center justify-center p-0"
-                    href="https://btjl.github.io/btjl/"
-                    target="_blank"
-                  >
-                    <ExternalLink className="inline h-4 w-4" />
-                  </a>
                 </span>
               </p>
               <p className="text-sm text-muted-foreground">
