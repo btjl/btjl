@@ -28,4 +28,4 @@ I am a full-stack software engineer who enjoys learning, experimenting and probl
 
 ### Links
 [Personal Website](https://btjl.vercel.app/)</br>
-[LeetCode](https://leetcode.com/profile/btjl)
+[LeetCode](https://leetcode.com/Ritmol/)
