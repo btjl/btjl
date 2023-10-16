@@ -2,7 +2,7 @@ Welcome to my profile 👋
 =
 
 <p>
-I am a fullstack software engineer who enjoys learning, experimenting and problem solving.
+I am a full-stack software engineer who enjoys learning, experimenting and problem-solving.
 </p>
 
 ### Skills & Actively Learning
@@ -28,3 +28,4 @@ I am a fullstack software engineer who enjoys learning, experimenting and proble
 
 ### Links
 [Personal Website](https://btjl.vercel.app/)
+[LeetCode](https://leetcode.com/profile/btjl)
