@@ -16,15 +16,14 @@ I am a full-stack software engineer who enjoys learning, experimenting and probl
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-- Google Cloud Functions
+- Firebase (Firestore, Functions, Storage, ...)
 - Telegram & WhatsApp Bot development
 
-
 ### Open Source contributions
-- CheckMate, a crowdsourced system that monitors messages sent to our CheckMate bot, funnels those in need of verification to our CheckMates, and replies users once we are confident on our categorisation of the message. 
+- CheckMate, a crowdsourced system that monitors messages sent to our CheckMate bot, funnels those in need of verification to our CheckMates, and replies users once we are confident on our categorisation of the message. More info [here](https://checkmate.sg/)
   - [Frontend](https://github.com/bettersg/checkmate-website)
   - [Backend](https://github.com/CheckMateSG/checkMate)
-- Bark bank, an online platform committed to transforming the lives of canines in need. Our non-profit community-driven initiative aims to connect dogs in need of blood transfusions with compassionate donors, forming a nationwide canine blood registry.
+- Bark bank, an online platform committed to transforming the lives of canines in need. Our non-profit community-driven initiative aims to connect dogs in need of blood transfusions with compassionate donors, forming a nationwide canine blood registry. More info [here](https://www.barkbank.co/)
   - [Frontend](https://github.com/barkbank/barkbank-pawtal)
 
 
