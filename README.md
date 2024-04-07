@@ -39,7 +39,7 @@ I am a full-stack software engineer who enjoys learning, experimenting and probl
   - [Frontend](https://github.com/bettersg/checkmate-website)
   - [Backend](https://github.com/CheckMateSG/checkMate)
 - Bark bank, an online platform committed to transforming the lives of canines in need. Our non-profit community-driven initiative aims to connect dogs in need of blood transfusions with compassionate donors, forming a nationwide canine blood registry. More info [here](https://www.barkbank.co/)
-  - [Frontend](https://github.com/barkbank/barkbank-pawtal)
+  - [Fullstack](https://github.com/barkbank/barkbank-pawtal)
 
 
 ### Certifications
