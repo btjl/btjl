@@ -34,7 +34,7 @@ I am a full-stack software engineer who enjoys learning, experimenting and probl
 - Terraform
 - Telegram & WhatsApp Bot development
 
-### Open Source contributions
+### Volunteering projects contributions
 - CheckMate, a crowdsourced system that monitors messages sent to our CheckMate bot, funnels those in need of verification to our CheckMates, and replies users once we are confident on our categorisation of the message. More info [here](https://checkmate.sg/)
   - [Frontend](https://github.com/bettersg/checkmate-website)
   - [Backend](https://github.com/CheckMateSG/checkMate)
